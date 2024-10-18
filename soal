@@ -1,0 +1,10 @@
+Assignment #5
+
+1. Buatlah dataset digit yang baru dengan mempertimbangkan:
+• Position
+• Rotation
+• Scaling
+2. Buatlah klasifikasi Neural Network dengan menjadikan dataset digit yang baru menjadi data testing.
+3. Lakukan dengan menggunakan miu=0.1, layer =3, 5, 10, 15, 20, 25
+4. Lakukan dengan menggunakan layer 10 dengan miu = 0.1, 0.5, 3, 5, 8,10
+5. Gambarkan Gradient Descent hasil percobaan yang dilakukan.
